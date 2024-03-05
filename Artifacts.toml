@@ -1,282 +1,273 @@
 [[Btop]]
 arch = "aarch64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "f03d2933c4a6485cb3b7fedd677c0e46e2ff1e76"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "446e7d5deb3f4bfdadf6e986675caff983019c1e"
 os = "macos"
 
     [[Btop.download]]
-    sha256 = "5ea6dc71283ad67c1cdba44e07288d5f50433f99b7c10219d9d572c89d980afc"
-    url = "https://github.com/JuliaBinaryWrappers/Btop_jll.jl/releases/download/Btop-v1.2.8+0/Btop.v1.2.8.aarch64-apple-darwin-cxx03.tar.gz"
-[[Btop]]
-arch = "aarch64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "baab7e4862b673e8659b8941c6e31c47b26f9270"
-os = "macos"
-
-    [[Btop.download]]
-    sha256 = "74bdd8292ebc462d89b82abcc0a65cede92e44ee819812995e15ff243c150c6a"
-    url = "https://github.com/JuliaBinaryWrappers/Btop_jll.jl/releases/download/Btop-v1.2.8+0/Btop.v1.2.8.aarch64-apple-darwin-cxx11.tar.gz"
+    sha256 = "d68f62cda1a4fcaa83e87919ed514d02420efc1c7b3fae2d86192f815a5856fa"
+    url = "https://github.com/JuliaBinaryWrappers/Btop_jll.jl/releases/download/Btop-v1.3.2+0/Btop.v1.3.2.aarch64-apple-darwin-cxx11.tar.gz"
 [[Btop]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "5132bd3f03321f81234699c74c614dc3459651e0"
+git-tree-sha1 = "2c371435735e68f169f6730d5d6a289e45b7540a"
 libc = "glibc"
 os = "linux"
 
     [[Btop.download]]
-    sha256 = "f978233ae1765fda87e6e16159202fd01214a0f17c25d75f5d39e834c7071b44"
-    url = "https://github.com/JuliaBinaryWrappers/Btop_jll.jl/releases/download/Btop-v1.2.8+0/Btop.v1.2.8.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "7d728edfeda42a084dd09cf195d328c0ccfdcd6baee542ad8621c36143cd5d21"
+    url = "https://github.com/JuliaBinaryWrappers/Btop_jll.jl/releases/download/Btop-v1.3.2+0/Btop.v1.3.2.aarch64-linux-gnu-cxx03.tar.gz"
 [[Btop]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "dd5256041209d8a2e65c0fb2b09a765eb84ffb5d"
+git-tree-sha1 = "7d4beec92e8e2e62e9d7f71f41ea1620fd849680"
 libc = "glibc"
 os = "linux"
 
     [[Btop.download]]
-    sha256 = "57d62ab79cb0e8ea3d6bebd81d7674dbed5f34587c39b7e47cfd0f8bc56453d3"
-    url = "https://github.com/JuliaBinaryWrappers/Btop_jll.jl/releases/download/Btop-v1.2.8+0/Btop.v1.2.8.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "63686229f50362aee4c2e7a0cb0b4e366c734e153787bc5681343ba6fc34d1e4"
+    url = "https://github.com/JuliaBinaryWrappers/Btop_jll.jl/releases/download/Btop-v1.3.2+0/Btop.v1.3.2.aarch64-linux-gnu-cxx11.tar.gz"
 [[Btop]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "87cf56cf624e10cf49ac66a9c7bb2bc7c3627c55"
+git-tree-sha1 = "8f35f0c97584816d9edb300c89b9d9b1c49373cd"
 libc = "musl"
 os = "linux"
 
     [[Btop.download]]
-    sha256 = "d2a8d9b18586ed5dfbad3be104c69d352747b5beb3739ac49e57e85a82d84c59"
-    url = "https://github.com/JuliaBinaryWrappers/Btop_jll.jl/releases/download/Btop-v1.2.8+0/Btop.v1.2.8.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "8dd8b087f4ac182dd4c52686b817fdb0c5cc7f5ee15232822ea6c44dabc72a37"
+    url = "https://github.com/JuliaBinaryWrappers/Btop_jll.jl/releases/download/Btop-v1.3.2+0/Btop.v1.3.2.aarch64-linux-musl-cxx03.tar.gz"
 [[Btop]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "50dd4f6b5dd210073ad450b785395119b1387c81"
+git-tree-sha1 = "d432c693168d8425ed65b952e301aa3f8b4fdd87"
 libc = "musl"
 os = "linux"
 
     [[Btop.download]]
-    sha256 = "bd02b0847a9064d5935cfe73c70ec8eecf4811eccbed3551c1b263c05ec3a78d"
-    url = "https://github.com/JuliaBinaryWrappers/Btop_jll.jl/releases/download/Btop-v1.2.8+0/Btop.v1.2.8.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "a6d039f947b6323b04c7500c65ca526c5e6537030d9f37320f0db7018d252ad6"
+    url = "https://github.com/JuliaBinaryWrappers/Btop_jll.jl/releases/download/Btop-v1.3.2+0/Btop.v1.3.2.aarch64-linux-musl-cxx11.tar.gz"
 [[Btop]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f2fc58f5cae849b79697e1a1d8e8816f15547662"
+git-tree-sha1 = "3edaed2ea27d5b7a107f2c3f01cc13b607344455"
 libc = "glibc"
 os = "linux"
 
     [[Btop.download]]
-    sha256 = "6fbc04752c174fd81ee2c2ce868bbbc95169599b95445756c2dc37140950f84e"
-    url = "https://github.com/JuliaBinaryWrappers/Btop_jll.jl/releases/download/Btop-v1.2.8+0/Btop.v1.2.8.armv6l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "31e44c3e2022811e618431e7c0807d41739d1aecb0ffc27e89a24a810a2498c3"
+    url = "https://github.com/JuliaBinaryWrappers/Btop_jll.jl/releases/download/Btop-v1.3.2+0/Btop.v1.3.2.armv6l-linux-gnueabihf-cxx03.tar.gz"
 [[Btop]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5b93b53e65caad5825b8e2f431505385fe094d4b"
+git-tree-sha1 = "0785bf58f132c91bc0632544aee8dbe0c5fc10cc"
 libc = "glibc"
 os = "linux"
 
     [[Btop.download]]
-    sha256 = "8a5c84c62d5dae7b27a1d51ff46e99a9802316de341fe5e9e42fd2aeb4f0e3be"
-    url = "https://github.com/JuliaBinaryWrappers/Btop_jll.jl/releases/download/Btop-v1.2.8+0/Btop.v1.2.8.armv6l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "42937e4b974a60240351baf2b251bf3ce81fa7d34af291115d6d70521e43a293"
+    url = "https://github.com/JuliaBinaryWrappers/Btop_jll.jl/releases/download/Btop-v1.3.2+0/Btop.v1.3.2.armv6l-linux-gnueabihf-cxx11.tar.gz"
 [[Btop]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "828f0cc8ef1f77c3a1c97320dcc8f9b7382f460b"
+git-tree-sha1 = "006c1531e3b1aad5664b80fef0c0f8508cd35889"
 libc = "musl"
 os = "linux"
 
     [[Btop.download]]
-    sha256 = "9879b456678854c7d0b82ae7c6c3b13d05626e69c9581f91bda308d3828e3155"
-    url = "https://github.com/JuliaBinaryWrappers/Btop_jll.jl/releases/download/Btop-v1.2.8+0/Btop.v1.2.8.armv6l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "ea539ae97790e182935e313f9bd63bc6007a14ace093b0c87d23085a89cb6074"
+    url = "https://github.com/JuliaBinaryWrappers/Btop_jll.jl/releases/download/Btop-v1.3.2+0/Btop.v1.3.2.armv6l-linux-musleabihf-cxx03.tar.gz"
 [[Btop]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "22a69dcce83eb9479b8948de3478efabf4bb9999"
+git-tree-sha1 = "7ce5e0e865ab72fa4201b457700059d194aaf81f"
 libc = "musl"
 os = "linux"
 
     [[Btop.download]]
-    sha256 = "f65c70c0da40ad3b357f80fc87b556b884c8323f1fdfc873bfcba433df2b36e6"
-    url = "https://github.com/JuliaBinaryWrappers/Btop_jll.jl/releases/download/Btop-v1.2.8+0/Btop.v1.2.8.armv6l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "232dd17b43e8dffce6977cc9bd9d807647e5e339e604a181f08e24cee7a825e2"
+    url = "https://github.com/JuliaBinaryWrappers/Btop_jll.jl/releases/download/Btop-v1.3.2+0/Btop.v1.3.2.armv6l-linux-musleabihf-cxx11.tar.gz"
 [[Btop]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f74d6995d6ce4068376c2f20f331cba0cad98e93"
+git-tree-sha1 = "5a91b8a3e64ddd0024c1e91133a07928c41533f2"
 libc = "glibc"
 os = "linux"
 
     [[Btop.download]]
-    sha256 = "75bd3fcb0d38677c566c3c1be9402e97b44d0e4841e0e5d580e6fc1a787d95a4"
-    url = "https://github.com/JuliaBinaryWrappers/Btop_jll.jl/releases/download/Btop-v1.2.8+0/Btop.v1.2.8.armv7l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "fe2cbb7a1c6aad1e8f13f40da815774ca0edfdf05e45607c7fdb897db8b828c8"
+    url = "https://github.com/JuliaBinaryWrappers/Btop_jll.jl/releases/download/Btop-v1.3.2+0/Btop.v1.3.2.armv7l-linux-gnueabihf-cxx03.tar.gz"
 [[Btop]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "46c53783dddb740ed0138cb32ef120f69fcd0671"
+git-tree-sha1 = "028d4cb7c8f198a0088977407343f5f9a5769c7e"
 libc = "glibc"
 os = "linux"
 
     [[Btop.download]]
-    sha256 = "d8da9f46d1d1c3cfa9fda4ad60da5fe6c02d577ff3f81d791232b9e6025e9b98"
-    url = "https://github.com/JuliaBinaryWrappers/Btop_jll.jl/releases/download/Btop-v1.2.8+0/Btop.v1.2.8.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "012fddb6c12900fa444bd11ea86bd88c87f6d7dae85f28651161bd80aea2be12"
+    url = "https://github.com/JuliaBinaryWrappers/Btop_jll.jl/releases/download/Btop-v1.3.2+0/Btop.v1.3.2.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[Btop]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "1c645876f6bfc859eb92299ee60cd6466e23887a"
+git-tree-sha1 = "48bd12223d3730fc0d6e00a9912b161633f59526"
 libc = "musl"
 os = "linux"
 
     [[Btop.download]]
-    sha256 = "8bf1fec8285906d5761b29045f8bc00953dc260f595bc8d13c0ab7b29bc95ea6"
-    url = "https://github.com/JuliaBinaryWrappers/Btop_jll.jl/releases/download/Btop-v1.2.8+0/Btop.v1.2.8.armv7l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "2a10761bc139148f21fea0bb0e33ec7acea75e0f3b5579efa2a19fd402b5bbfd"
+    url = "https://github.com/JuliaBinaryWrappers/Btop_jll.jl/releases/download/Btop-v1.3.2+0/Btop.v1.3.2.armv7l-linux-musleabihf-cxx03.tar.gz"
 [[Btop]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "695d5a7c96e438df13b332625f796e74b45f5f5b"
+git-tree-sha1 = "9abdbb3257dc06a3cc81eefb2464ed1a67c1c124"
 libc = "musl"
 os = "linux"
 
     [[Btop.download]]
-    sha256 = "24223d0458b6ae91f3da03bf5cc16bed6c9fd92503dd613581dcf872da6f376d"
-    url = "https://github.com/JuliaBinaryWrappers/Btop_jll.jl/releases/download/Btop-v1.2.8+0/Btop.v1.2.8.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "5ad6443562aeed6434f39f2495ef908cd84d4a39cd53911e25a006f1f126e871"
+    url = "https://github.com/JuliaBinaryWrappers/Btop_jll.jl/releases/download/Btop-v1.3.2+0/Btop.v1.3.2.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[Btop]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d22c4ae9f8a20ee73d3a4c12ee147fae04231c9c"
+git-tree-sha1 = "026e828967be0b7923bfccb6e52eaac620dd71e0"
 libc = "glibc"
 os = "linux"
 
     [[Btop.download]]
-    sha256 = "1d63c4b12d35a54faca847c30a05b02f3e8a961425ca2f36c37b07c8c07f7f69"
-    url = "https://github.com/JuliaBinaryWrappers/Btop_jll.jl/releases/download/Btop-v1.2.8+0/Btop.v1.2.8.i686-linux-gnu-cxx03.tar.gz"
+    sha256 = "b19985385a424ff3aeac86722dbaa868007138706abb95466fcab70df975d871"
+    url = "https://github.com/JuliaBinaryWrappers/Btop_jll.jl/releases/download/Btop-v1.3.2+0/Btop.v1.3.2.i686-linux-gnu-cxx03.tar.gz"
 [[Btop]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ce461533e344e5ba90595b1fd0f3bb090c65ccdf"
+git-tree-sha1 = "20940f52472d6d17432d28d83a5c49fd3a17f860"
 libc = "glibc"
 os = "linux"
 
     [[Btop.download]]
-    sha256 = "fd255b45d355934d80fd4974b589e6601a93967c3f2f8cf7d5a6e58c2bb564a4"
-    url = "https://github.com/JuliaBinaryWrappers/Btop_jll.jl/releases/download/Btop-v1.2.8+0/Btop.v1.2.8.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "6f860fcd7524673bf747223aa0c326bda14710603870cccca97c07c6b69d5bf1"
+    url = "https://github.com/JuliaBinaryWrappers/Btop_jll.jl/releases/download/Btop-v1.3.2+0/Btop.v1.3.2.i686-linux-gnu-cxx11.tar.gz"
 [[Btop]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e6384a95592e13578cafda12038c921cf91ad629"
+git-tree-sha1 = "0cc8fca0d75947bb0c1f8c0872d7b2cabdcdb924"
 libc = "musl"
 os = "linux"
 
     [[Btop.download]]
-    sha256 = "bcbd8624058edef54707f732391b392b0d6c4b1fd929553388e877ef2cfbcffc"
-    url = "https://github.com/JuliaBinaryWrappers/Btop_jll.jl/releases/download/Btop-v1.2.8+0/Btop.v1.2.8.i686-linux-musl-cxx03.tar.gz"
+    sha256 = "f41a9f4ae5a2e4e10295b39bd50bc5428d679186e5a4934eba866676a0cd5bcb"
+    url = "https://github.com/JuliaBinaryWrappers/Btop_jll.jl/releases/download/Btop-v1.3.2+0/Btop.v1.3.2.i686-linux-musl-cxx03.tar.gz"
 [[Btop]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "81ccd166a5d434e108e3939b7913fb98f4e28aad"
+git-tree-sha1 = "86f2ae46c844b10d916292296953cfd4352c8b78"
 libc = "musl"
 os = "linux"
 
     [[Btop.download]]
-    sha256 = "42f2cf0fb1bcd707922aadd6c6ef4096920527a039e32b671fd44d05a6367081"
-    url = "https://github.com/JuliaBinaryWrappers/Btop_jll.jl/releases/download/Btop-v1.2.8+0/Btop.v1.2.8.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "9e28be1a81f687cde0ac3e92ed2360ce2243302e79296cc79292fcc8377e4d82"
+    url = "https://github.com/JuliaBinaryWrappers/Btop_jll.jl/releases/download/Btop-v1.3.2+0/Btop.v1.3.2.i686-linux-musl-cxx11.tar.gz"
 [[Btop]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "399fec147b7527ca685c8eacd55ef1b48a21016f"
+git-tree-sha1 = "c9ba17cb7dace2c1f4a9c3d29129c44e64f4c777"
 libc = "glibc"
 os = "linux"
 
     [[Btop.download]]
-    sha256 = "3959ec1a9e2a611ef0479f193c6ac57ddaaeca4c16062e6bc668bbbc301195f0"
-    url = "https://github.com/JuliaBinaryWrappers/Btop_jll.jl/releases/download/Btop-v1.2.8+0/Btop.v1.2.8.powerpc64le-linux-gnu-cxx03.tar.gz"
+    sha256 = "a30c66588bfad024339495a7236780908e752b4d94dcd704bcad524ef84ee7b5"
+    url = "https://github.com/JuliaBinaryWrappers/Btop_jll.jl/releases/download/Btop-v1.3.2+0/Btop.v1.3.2.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[Btop]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c14e152ebdbacb74d55fdfc5d8b217b3b9d00f3e"
+git-tree-sha1 = "98f89362f4e5081777b33843c3a3402bfe51b6d2"
 libc = "glibc"
 os = "linux"
 
     [[Btop.download]]
-    sha256 = "4ca72d46e03d4e6526b5490b94be138dd27566bc56dc363282f259fbae809a57"
-    url = "https://github.com/JuliaBinaryWrappers/Btop_jll.jl/releases/download/Btop-v1.2.8+0/Btop.v1.2.8.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "51b72b8ab0851d1cfda40d482a749df9ed127b87d702472e0a0efb6ab1b3a868"
+    url = "https://github.com/JuliaBinaryWrappers/Btop_jll.jl/releases/download/Btop-v1.3.2+0/Btop.v1.3.2.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[Btop]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "4aff5ca75cd50636745c8bf7ccf67c14bc6af351"
+git-tree-sha1 = "ea7444c5473ed330b9953f06bfb14396da901b36"
 os = "macos"
 
     [[Btop.download]]
-    sha256 = "9cce6dfedbfb5ac27728507ced4f0a5dee2ba676c6d4172aad132f0e35307c11"
-    url = "https://github.com/JuliaBinaryWrappers/Btop_jll.jl/releases/download/Btop-v1.2.8+0/Btop.v1.2.8.x86_64-apple-darwin-cxx03.tar.gz"
+    sha256 = "76d2ec15aa4e7c4f22cb9fcfca755fe4e8b8acf504117219ec1012cd4e59b6ce"
+    url = "https://github.com/JuliaBinaryWrappers/Btop_jll.jl/releases/download/Btop-v1.3.2+0/Btop.v1.3.2.x86_64-apple-darwin-cxx03.tar.gz"
 [[Btop]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b081a8f8c965a669abb5e44ac5604c5218a4e3d8"
+git-tree-sha1 = "f2fda1901e8a9494cee05b06ee59f4ef334f7722"
 os = "macos"
 
     [[Btop.download]]
-    sha256 = "6ca699b8f196a6222217ee4dd5c5d21ebd9103e7c53ac92194b3063fab5f470e"
-    url = "https://github.com/JuliaBinaryWrappers/Btop_jll.jl/releases/download/Btop-v1.2.8+0/Btop.v1.2.8.x86_64-apple-darwin-cxx11.tar.gz"
+    sha256 = "f52e5c52602f061f06048ac317e1b45ddc89f4111e0be383a1b18bcced83386e"
+    url = "https://github.com/JuliaBinaryWrappers/Btop_jll.jl/releases/download/Btop-v1.3.2+0/Btop.v1.3.2.x86_64-apple-darwin-cxx11.tar.gz"
 [[Btop]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "1d6097b00df99dbdac88d6c14a6f0aa501ed44a3"
+git-tree-sha1 = "cbb0636519b0e064621ed1bedab388380fb337b1"
 libc = "glibc"
 os = "linux"
 
     [[Btop.download]]
-    sha256 = "9f6e204fb6b15032d15fe5ebc194d5ddfae931c0cb44aff4171217fb107264d4"
-    url = "https://github.com/JuliaBinaryWrappers/Btop_jll.jl/releases/download/Btop-v1.2.8+0/Btop.v1.2.8.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "9d49f1c23557c7620b7d0b2495690b22fd811baa52aea2ca55df7c8d03222baf"
+    url = "https://github.com/JuliaBinaryWrappers/Btop_jll.jl/releases/download/Btop-v1.3.2+0/Btop.v1.3.2.x86_64-linux-gnu-cxx03.tar.gz"
 [[Btop]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "719d68e3d2c8493bdbfa0da669418094cb2ac043"
+git-tree-sha1 = "ecef643d0f9ad32efec250cdfa4ce8a3bb7a96e4"
 libc = "glibc"
 os = "linux"
 
     [[Btop.download]]
-    sha256 = "67f5162ecc6822c9b15904682aaca5bc4e89634ad63163e1b089de7387f25041"
-    url = "https://github.com/JuliaBinaryWrappers/Btop_jll.jl/releases/download/Btop-v1.2.8+0/Btop.v1.2.8.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "06d31a1ae7fed75e0d5fc850c0035576aa5fa408f228fff66c6e501c6629d0a5"
+    url = "https://github.com/JuliaBinaryWrappers/Btop_jll.jl/releases/download/Btop-v1.3.2+0/Btop.v1.3.2.x86_64-linux-gnu-cxx11.tar.gz"
 [[Btop]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "1c71cc9d55ab5bb0375efc23e530daae3b6618f0"
+git-tree-sha1 = "4d9450add1130c112801155903369cfee38d2845"
 libc = "musl"
 os = "linux"
 
     [[Btop.download]]
-    sha256 = "a7e1177130f4e5c803fd88f8340679af5ce10fe2a32cdf002adf11ebd2ad55af"
-    url = "https://github.com/JuliaBinaryWrappers/Btop_jll.jl/releases/download/Btop-v1.2.8+0/Btop.v1.2.8.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "dbbe1faba28648a43f66d4902fd715780e63b597ec730c7f9ca89f3fddd1c4c4"
+    url = "https://github.com/JuliaBinaryWrappers/Btop_jll.jl/releases/download/Btop-v1.3.2+0/Btop.v1.3.2.x86_64-linux-musl-cxx03.tar.gz"
 [[Btop]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "515fb10d5e7123edc71204fe6553cf308301a19f"
+git-tree-sha1 = "b8680b553c2302096f69a70609f27f9a24a27ef1"
 libc = "musl"
 os = "linux"
 
     [[Btop.download]]
-    sha256 = "7902dbc36ffdd5272ceb0c12205b71227adbeb3b940196050676f95cbc43452b"
-    url = "https://github.com/JuliaBinaryWrappers/Btop_jll.jl/releases/download/Btop-v1.2.8+0/Btop.v1.2.8.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "76dc3b3e69a2b0f67911204d21c0146a12e4e9c5c1831d27909f69a3eda0db2b"
+    url = "https://github.com/JuliaBinaryWrappers/Btop_jll.jl/releases/download/Btop-v1.3.2+0/Btop.v1.3.2.x86_64-linux-musl-cxx11.tar.gz"
 [[Btop]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ac4558feb32b59db0c0bd67c64de1490d4aa8ae7"
+git-tree-sha1 = "3e4f118b520500f2d8b71a73fd8ec1c634a3ef73"
 os = "freebsd"
 
     [[Btop.download]]
-    sha256 = "a5573c4b1fb7a819fc9a8ff1aa6951654155778ffef899b9f4eaa038677b7d16"
-    url = "https://github.com/JuliaBinaryWrappers/Btop_jll.jl/releases/download/Btop-v1.2.8+0/Btop.v1.2.8.x86_64-unknown-freebsd-cxx03.tar.gz"
+    sha256 = "03bb0db9187103ec05643dbe95c54d1186d62505b596027908a281a4101b5c9d"
+    url = "https://github.com/JuliaBinaryWrappers/Btop_jll.jl/releases/download/Btop-v1.3.2+0/Btop.v1.3.2.x86_64-unknown-freebsd-cxx03.tar.gz"
 [[Btop]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2e1fb1d5ade9fb290f8a4bfcdb9e38651f925d9c"
+git-tree-sha1 = "398ea911574b7aa7885e6f10761e88d58a1a7646"
 os = "freebsd"
 
     [[Btop.download]]
-    sha256 = "ffd69cb32fbbaf75a0cf4b7842be4a639b1460147fd38b5f13e08a3f84f3f851"
-    url = "https://github.com/JuliaBinaryWrappers/Btop_jll.jl/releases/download/Btop-v1.2.8+0/Btop.v1.2.8.x86_64-unknown-freebsd-cxx11.tar.gz"
+    sha256 = "c7e3a812435ef95ed48de897dabcafba63f45444b4ce380715a5b2c8da955bce"
+    url = "https://github.com/JuliaBinaryWrappers/Btop_jll.jl/releases/download/Btop-v1.3.2+0/Btop.v1.3.2.x86_64-unknown-freebsd-cxx11.tar.gz"
